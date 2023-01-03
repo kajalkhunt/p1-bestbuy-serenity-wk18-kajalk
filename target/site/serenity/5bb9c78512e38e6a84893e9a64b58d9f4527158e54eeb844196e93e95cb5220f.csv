@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store curd test with steps","This will create new product","SUCCESS","2023-01-01T22:44:08.720Z[Europe/London]","0.0","0.11"
+"Store curd test with steps","Verify if the product was added to application","SUCCESS","2023-01-01T22:44:08.836Z[Europe/London]","0.0","0.04"
+"Store curd test with steps","This will update product","SUCCESS","2023-01-01T22:44:08.882Z[Europe/London]","0.0","0.13"
+"Store curd test with steps","This will delete product","SUCCESS","2023-01-01T22:44:09.014Z[Europe/London]","0.0","0.09"
